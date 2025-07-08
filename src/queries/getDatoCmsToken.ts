@@ -6,7 +6,7 @@ export const getDatoCmsToken = (): string => {
     case 'sumanthsamala.com':
     case 'ror.localhost':
     case 'localhost':
-    case 'portfolio-livid-seven-81.vercel.app': // ✅ Add this line
+    case 'nandu-s-portfolio.vercel.app': // ✅ Add this line
       return process.env.REACT_APP_DATOCMS_ROR_TOKEN ?? '';
 
     case 'java.sumanthsamala.com':
