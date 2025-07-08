@@ -36,7 +36,7 @@ const projects: Project[] = [
     techUsed: "Python, Jupyter Notebook, Pandas, Matplotlib, Seaborn",
     image: { url: "https://ui-avatars.com/api/?name=D&background=000000&color=ffffff&size=512" }
   }
-];``
+];
 
 const Projects: React.FC = () => (
   <div className="projects-container">
